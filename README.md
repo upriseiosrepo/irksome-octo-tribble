@@ -1,2 +1,2 @@
-# irksome-octo-tribble
+# UpRiseIOS Cydia Repository 
 Official cydia repo from upriseios 
